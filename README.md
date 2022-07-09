@@ -2,9 +2,9 @@
 
 An online invoicing software that helps you craft and print professional invoices for your customers for free! Keep your business and clients with one invoicing software.
 
-### Live URL: http://invoicer-eta.vercel.app/
+### Live URL: 
 
-![Web Preview](./src/images/githubSnapshot.png)
+
 
 ### Tools Used:
 
